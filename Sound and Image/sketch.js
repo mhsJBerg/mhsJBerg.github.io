@@ -1,5 +1,5 @@
 
-let = img;
+let img;
 
 
 function preload(){
