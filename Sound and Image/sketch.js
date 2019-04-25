@@ -1,3 +1,7 @@
+
+let = img;
+
+
 function preload(){
 
   img = loadImage('1345026_thumb.png');
@@ -13,4 +17,7 @@ function setup() {
 
 function draw() {
   // put drawing code here
+img;
+
+  
 }
