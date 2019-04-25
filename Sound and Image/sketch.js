@@ -10,7 +10,7 @@ function preload(){
 
 function setup() {
   // put setup code here
-  createCanvas(800,600);
+  createCanvas(windowWidth,windowHeight);
   background(0);
 }
 
