@@ -4,7 +4,7 @@ let img;
 
 function preload(){
 
-  img = loadImage('1345026_thumb.png');
+  img = loadImage('https://github.com/mhsJBerg/mhsJBerg.github.io/blob/master/Sound%20and%20Image/kisspng-bicycle-freestyle-motocross-motorcycle-stunt-ridin-biker-5aba2bdd213e15.8116525715221503651362.jpg');
 }
 
 
