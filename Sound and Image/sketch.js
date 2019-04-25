@@ -17,7 +17,7 @@ function setup() {
 
 function draw() {
   // put drawing code here
-img;
+image(img,200,200);
 
   
 }
