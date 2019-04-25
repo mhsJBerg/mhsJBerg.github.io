@@ -4,7 +4,7 @@ let img;
 
 function preload(){
 
-  img = loadImage('');
+  img = loadImage('Bicycle-Transparent-Images-PNG.png');
 }
 
 
